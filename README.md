@@ -37,7 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Our web development project use **HTML, CSS, JavaScript,  Axios, React, Node.js, MongoDB**. So it's better to know these techniques before you download the code.
+The web development project use **HTML, CSS, JavaScript,  Axios, React, Node.js, MongoDB**. So it's better to know these techniques before you download the code.
 
 ### Installing
 
