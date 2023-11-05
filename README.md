@@ -70,13 +70,4 @@ Open [http://localhost:3000](http://localhost:3000)(Maybe you have different one
 * [MongoDB](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-au_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624341&adgroup=115749705743&cq_cmp=12212624341&gad=1&gclid=Cj0KCQjw0tKiBhC6ARIsAAOXutmdtOA4xTtFsCdLi4PJKRwLeDY9TnlXL7CPjxwPn5OtjGyeDvhEe0IaAp2REALw_wcB) - The web back-end storage used
 * [JavaScript](https://www.javascript.com/): Used to implement both front and back end of the application
 
-## Contributing
-
-1. [Phuong Anh Dang](https://github.sydney.edu.au/Pdan8803): focus on Main page and Sign-in, Sign-up page, manage listing of user page.
-2. [Guohao Tong](https://github.sydney.edu.au/gton2618): Focus on Main page and CheckOut page
-3. [Xiaorong Huang](https://github.sydney.edu.au/xhua5291): Focus on Sign-in, Sign-up page and User page.
-
-## Versioning
-
-We use GitHub for versioning.  
 
